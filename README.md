@@ -1,4 +1,4 @@
-# react-native-drop-refresh
+# react-native-drop-refresh-ios
 
 A pull down to refresh control for react native.
 This is a fork version from [react-native-china/react-native-drop-refresh](https://github.com/react-native-china/react-native-drop-refresh).
